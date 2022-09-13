@@ -1,2 +1,2 @@
 # alldex
-Compilador de Dex de Mons
+Compilado de Dex de Mons
